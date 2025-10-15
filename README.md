@@ -1,2 +1,2 @@
 # practice
-just learning through apna college demo 
+just learning through apna college demo .
