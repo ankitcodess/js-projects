@@ -1,5 +1,5 @@
-# practice
-just learning through apna college demo .
+# This is the "To Do List"
 
-# Student 
-Ankit patel
+just for beginner i have created it : 
+-its simply adds tasks
+-and removes it
